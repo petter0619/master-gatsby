@@ -1,9 +1,10 @@
 import React from 'react';
+// Import component
 
 export default function PizzasPage() {
     return (
-        <div>
+        <>
             <p>Hey! I'm the Pizzas page!!!</p>
-        </div>
+        </>
     );
 }
